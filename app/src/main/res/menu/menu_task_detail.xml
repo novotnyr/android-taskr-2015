@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="sk.upjs.ics.android.taskr.TaskDetailActivity">
+
+    <item android:id="@+id/deleteTaskMenu"
+        android:title="Odstrániť"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_delete"
+        />
+
+</menu>
